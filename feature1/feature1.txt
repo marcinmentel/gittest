@@ -5,6 +5,5 @@ black
 yellow
 gray
 green
-brown
 gold
 silver
