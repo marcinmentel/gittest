@@ -1,0 +1,7 @@
+Colors:
+pink
+white
+black
+yellow
+gray
+green
